@@ -1,0 +1,67 @@
+\use{document}
+
+// ── Page frame: half-letter (5.5x8.5in) field guide, wide left margin for binder holes ──
+\geometry paperwidth:5.5in paperheight:8.5in left:0.85in right:0.5in top:0.6in bottom:0.6in
+
+// ── Running head: short title centered at the top; the format ships the page number in the foot ──
+\def headline {\hfil\italic{Apologia — Field Reference}\hfil}
+
+// ── Card authoring vocabulary ──────────────────────────────────────────────
+// \objection{tag}{full question}
+//   tag           short label for the numbered entry + table-of-contents index
+//   full question shown in bold above the answer (wraps to the page width)
+// \lab{...}        a bold run-in label, e.g. \lab{Short answer} Because ...
+\def objection s q {\subsection{\s}\textbf{\q}
+
+}
+\def lab t {\textbf{\t.}}
+
+\title{Apologia}
+\author{A Field Reference for Evangelists}
+\date{2026}
+\maketitle
+
+\contents
+\eject  // front matter (title + index) on its own page; entries start fresh
+
+// ════════════════════════════════════════════════════════════════════════════
+\section{The Reliability of the Bible}
+
+\objection{Contradictions}{``The Bible is full of contradictions.''}
+
+\lab{Short answer} Most alleged contradictions are differences of perspective or
+detail, not logical contradictions. A real contradiction must affirm and deny the
+same thing, in the same sense, at the same time --- and clear examples are remarkably
+hard to produce.
+
+\lab{Key points}
+\begin{itemize}
+\item Ask for a \emph{specific} example; vague claims dissolve once examined.
+\item Differing details (the number of angels at the tomb, the wording of a sign)
+  are the mark of \emph{independent} eyewitness testimony, not collusion.
+\item Most apparent conflicts harmonize once context, genre, and intent are weighed.
+\end{itemize}
+
+\lab{Scripture} 2~Tim.~3:16; John~10:35.
+
+\lab{See also} The manuscript entry below, on whether the text was changed.
+
+\objection{Reliable transmission}{``The Bible was copied so many times we can't know the original.''}
+
+\lab{Short answer} The New Testament is the best-attested document of the ancient
+world. We have roughly 5,800 Greek manuscripts, the variants among them are
+overwhelmingly trivial, and not one Christian doctrine hangs on a disputed reading.
+
+\lab{Key points}
+\begin{itemize}
+\item Compare the manuscript count to other ancient works, which survive in only a
+  handful of late copies.
+\item Some fragments date within a century or two of the originals --- far closer
+  than for comparable texts.
+\item The vast majority of variants are spelling or word order; textual criticism
+  reconstructs the wording with high confidence.
+\end{itemize}
+
+\lab{Scripture} Isa.~40:8; Matt.~24:35.
+
+\lab{See also} The contradictions entry above.

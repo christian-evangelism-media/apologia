@@ -34,10 +34,10 @@
 \def topicen {}
 \def settopic f e {\def topicfr {\f}\def topicen {\e}}
 
-// The header of a card page: a small-caps topic kicker, then the card number and its tag.
+// The header of a card page: a small-caps topic kicker (omitted when the topic is empty, so a card that is its
+// own whole section isn't labelled twice), then the card number and its tag.
 \def cardhead num topic tag {
-  \leftline{\font lmroman 9 regular \smallcaps{\topic}}
-  \smallskip
+  \if {\> {\size{\topic}} {0}}\leftline{\font lmroman 9 regular \smallcaps{\topic}}\smallskip\fi
   \leftline{\font lmroman 15 bold \num\hskip 10 \tag}
   \vskip 6pt
   \noindent
@@ -260,97 +260,68 @@ and Savior.''
 \end{en}
 
 // ════════════════════════════════════════════════════════════════════════════
-\settopic{L'existence de Dieu}{The Existence of God}
+// Two objections share one page here, so the card is titled by its section and carries no kicker.
+\settopic{}{}
 
-\begin{fr}{Aucune preuve}
+\begin{fr}{L'existence de Dieu}
 \q{« Il n'y a aucune preuve de l'existence de Dieu. »}
-
 \lab{Réponse brève} Il y a quantité d'indices --- simplement pas du genre qu'on met dans une
 éprouvette. Le commencement de l'univers, son réglage si précis, l'existence d'une loi morale
-et la réalité de la conscience pointent tous au-delà de la nature, vers une intelligence qui
-en est la source.
-
-\lab{Points clés}
+et la réalité de la conscience pointent au-delà de la nature, vers une intelligence qui en
+est la source.
 \begin{itemize}
 \item Tout ce qui commence à exister a une cause ; l'univers a commencé --- il a donc une
   cause qui le dépasse.
 \item Les constantes qui rendent la vie possible sont réglées avec une précision infime ;
   le dessein en est l'explication la plus naturelle.
-\item Vous présupposez un vrai bien et un vrai mal (torturer un enfant est mal) ; une loi
-  morale renvoie à un Législateur.
+\item Vous présupposez un vrai bien et un vrai mal ; une loi morale renvoie à un Législateur.
 \end{itemize}
-
 \lab{Écritures} Rom.~1.20 ; Ps.~19.1.
 
-\lab{Voir aussi} La fiche sur la bonté sans Dieu.
+\medskip
+\q{« La science a tout expliqué --- nous n'avons pas besoin de Dieu. »}
+\lab{Réponse brève} La science explique \emph{comment} le monde fonctionne ; elle ne peut pas
+dire \emph{pourquoi} il y a un monde, ni à quoi il sert. Dieu n'est pas une explication rivale
+de la science --- il est la raison d'un univers ordonné que la science peut étudier.
+\begin{itemize}
+\item « Comment » et « pourquoi » sont deux questions distinctes ; expliquer un moteur ne dit
+  pas pourquoi la voiture a été construite.
+\item La science présuppose un univers ordonné et intelligible --- ce qu'on attendrait si un
+  Dieu rationnel l'avait fait.
+\item Elle reste muette sur le sens, la morale et le but --- les questions qui nous importent
+  le plus.
+\end{itemize}
+\lab{Écritures} Col.~1.17 ; Héb.~11.3.
 \end{fr}
 
-\begin{en}{No evidence}
+\begin{en}{The Existence of God}
 \q{``There's no evidence that God exists.''}
-
 \lab{Short answer} There's a great deal of evidence --- just not the kind you put in a test
 tube. The beginning of the universe, its fine-tuning, the existence of a moral law, and the
 reality of consciousness all point beyond nature to a mind behind it.
-
-\lab{Key points}
 \begin{itemize}
 \item Everything that begins to exist has a cause; the universe began --- so it has a cause
   beyond itself.
 \item The constants that make life possible are fine-tuned to a razor's edge; design is the
   most natural explanation.
-\item You assume real right and wrong (it is wrong to torture a child); a moral law points
-  to a Lawgiver.
+\item You assume real right and wrong; a moral law points to a Lawgiver.
 \end{itemize}
-
 \lab{Scripture} Rom.~1:20; Ps.~19:1.
 
-\lab{See also} The card on goodness without God.
-\end{en}
-
-// ════════════════════════════════════════════════════════════════════════════
-\begin{fr}{La science explique tout}
-\q{« La science a tout expliqué --- nous n'avons pas besoin de Dieu. »}
-
-\lab{Réponse brève} La science explique \emph{comment} le monde fonctionne ; elle ne peut pas
-dire \emph{pourquoi} il y a un monde, ni à quoi il sert. Dieu n'est pas une explication rivale
-de la science --- il est la raison pour laquelle il existe un univers ordonné que la science
-peut étudier.
-
-\lab{Points clés}
-\begin{itemize}
-\item « Comment » et « pourquoi » sont deux questions distinctes ; expliquer un moteur ne dit
-  pas pourquoi la voiture a été construite.
-\item La science présuppose un univers ordonné et intelligible --- ce qu'on attendrait si un
-  Dieu rationnel l'avait fait. Beaucoup de fondateurs de la science étaient croyants.
-\item La science reste muette sur le sens, la morale et le but --- les questions qui nous
-  importent le plus.
-\end{itemize}
-
-\lab{Écritures} Col.~1.17 ; Héb.~11.3.
-
-\lab{Voir aussi} La fiche sur l'évolution.
-\end{fr}
-
-\begin{en}{Science explains it all}
+\medskip
 \q{``Science has explained everything --- we don't need God.''}
-
 \lab{Short answer} Science explains \emph{how} the world works; it cannot tell you \emph{why}
 there is a world at all, or what it is for. God is not a rival explanation to science --- he
-is the reason there is an orderly universe for science to study.
-
-\lab{Key points}
+is the reason there is an orderly universe to study.
 \begin{itemize}
 \item ``How'' and ``why'' are different questions; explaining an engine doesn't tell you why
   the car was built.
 \item Science assumes an orderly, intelligible universe --- just what you'd expect if a
-  rational God made it. Many founders of science were believers.
+  rational God made it.
 \item Science is silent on meaning, morality, and purpose --- the questions we most need
   answered.
 \end{itemize}
-
 \lab{Scripture} Col.~1:17; Heb.~11:3.
-
-\lab{See also} The card on evolution.
 \end{en}
 
 // ════════════════════════════════════════════════════════════════════════════
@@ -647,7 +618,7 @@ et \emph{pourquoi} ; ce n'est pas un manuel de sciences.
 
 \lab{Écritures} Gen.~1.1 ; Ps.~139.14.
 
-\lab{Voir aussi} La fiche « La science explique tout ».
+\lab{Voir aussi} La fiche sur l'existence de Dieu.
 \end{fr}
 
 \begin{en}{Evolution}
@@ -668,7 +639,7 @@ Genesis tells us \emph{that} God made the world and \emph{why}; it is not a scie
 
 \lab{Scripture} Gen.~1:1; Ps.~139:14.
 
-\lab{See also} The ``Science explains it all'' card.
+\lab{See also} The card on the existence of God.
 \end{en}
 
 // ════════════════════════════════════════════════════════════════════════════

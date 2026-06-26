@@ -261,10 +261,10 @@ and Savior.''
 \end{en}
 
 // ════════════════════════════════════════════════════════════════════════════
-// Two objections share one page here, so the card is titled by its section and carries no kicker.
-\settopic{}{}
+// Two objections share one page here under a single card, kept under the section kicker.
+\settopic{L'existence de Dieu}{The Existence of God}
 
-\begin{fr}{L'existence de Dieu}
+\begin{fr}{Preuve et science}
 \q{« Il n'y a aucune preuve de l'existence de Dieu. »}
 \lab{Réponse brève} Il y a quantité d'indices --- simplement pas du genre qu'on met dans une
 éprouvette. Le commencement de l'univers, son réglage si précis, l'existence d'une loi morale
@@ -303,7 +303,7 @@ de la science --- il est la raison d'un univers ordonné que la science peut ét
 de Dieu, en sorte que ce qu'on voit n'a pas été fait de choses visibles.}
 \end{fr}
 
-\begin{en}{The Existence of God}
+\begin{en}{Evidence and science}
 \q{``There's no evidence that God exists.''}
 \lab{Short answer} There's a great deal of evidence --- just not the kind you put in a test
 tube. The beginning of the universe, its fine-tuning, the existence of a moral law, and the

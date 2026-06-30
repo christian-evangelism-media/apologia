@@ -117,6 +117,7 @@
 // ── Hebrew table of contents (verso) ──────────────────────────────────────────
 \rtl
 \noindent{\font hebrew 16 bold תוכן העניינים}
+
 \ltr
 \vskip 12pt
 \rtl

@@ -102,11 +102,15 @@
 \vskip 90pt
 \centerline{\font noto 48 regular Ἀπολογία}
 \vskip 36pt
-\centerline{\font hebrew 15 regular מדריך שדה למבשרי הבשורה}
+{\centering\rtl\font hebrew 15 regular מדריך שדה למבשרי הבשורה
+
+}
 \vskip 5pt
 \centerline{\font lmroman 13 regular A Field Reference for Evangelists}
 \vfil
-\centerline{\font hebrew 11 regular 30 ביוני 2026}
+{\centering\rtl\font hebrew 11 regular 30 ביוני 2026
+
+}
 \vskip 24pt
 \eject
 
@@ -309,15 +313,471 @@ may know that you have eternal life.}
 \end{en}
 
 // ════════════════════════════════════════════════════════════════════════════
+\settopic{אלוהים}{God}
+
+\begin{he}{ראיות ומדע}
+\q{״אין שום ראיה לכך שאלוהים קיים.״}
+יש שפע של ראיות — רק לא מהסוג שאפשר להכניס למבחנה. ראשית היקום, הכוונון העדין שלו, קיומו של חוק
+מוסרי, ומציאות התודעה — כולם מצביעים אל מעבר לטבע, אל תבונה שמאחוריו.
+
+\bull{כל מה שמתחיל להתקיים יש לו סיבה; ליקום הייתה ראשית — אם כן יש לו סיבה שמעבר לעצמו.}
+\bull{הקבועים המאפשרים חיים מכוונים בדיוק מופלא; תכנון הוא ההסבר הטבעי ביותר.}
+\bull{אתה מניח קיום של טוב ורע אמיתיים; חוק מוסרי מצביע על מחוקק.}
+
+\smallskip
+\verse{רומים 1:20}{כִּי חֶבְיוֹן עֻזּוֹ נֵצַח גְּבוּרָתוֹ וֵאלֹהוּתוֹ נוֹדְעוּ וְיָצְאוּ לָאוֹרָה עַל־יְדֵי פְעֻלּוֹתָיו מִיּוֹם בְּרֹא אֶרֶץ וְשָׁמָיִם עַד־כִּי אֵין־לָהֶם פֶּה לְהִצְטַדָּק׃}
+\verse{תהלים 19:1}{הַשָּׁמַיִם מְסַפְּרִים כְּבוֹד־אֵל וּמַעֲשֵׂה יָדָיו מַגִּיד הָרָקִיעַ׃}
+
+\medskip
+\q{״המדע כבר הסביר הכל — איננו זקוקים לאלוהים.״}
+המדע מסביר כיצד העולם פועל; הוא אינו יכול לומר לך מדוע יש עולם בכלל, או לשם מה. אלוהים אינו הסבר
+מתחרה למדע — הוא הסיבה לכך שיש בכלל יקום מסודר לחקור.
+
+\bull{״כיצד״ ו״מדוע״ הן שאלות שונות; הסבר על מנוע אינו אומר לך מדוע נבנתה המכונית.}
+\bull{המדע מניח יקום מסודר ובר-הבנה — בדיוק כפי שהיינו מצפים אילו אל תבוני בראו.}
+\bull{על משמעות, מוסר ותכלית המדע שותק — והן השאלות שעליהן אנו זקוקים יותר מכל לתשובה.}
+
+\smallskip
+\verse{קולוסים 1:17}{וְהוּא קַדְמוֹן לְכָל־דָּבָר וְעַל־פִּיו הֵם עֹמְדִים כֻּלָּם׃}
+\verse{עברים 11:3}{בָּאֱמוּנָה נָבִין כִּי בִּדְבַר אֱלֹהִים נַעֲשׂוּ שָׁמַיִם וָאָרֶץ וְכִי הַנִּמְצָאִים לְעֵינֵינוּ לֹא מֵחֹמֶר קַדְמוֹנִי נִבְרָאוּ׃}
+\end{he}
+
+\begin{en}{Evidence and science}
+\q{``There's no evidence that God exists.''}
+There's a great deal of evidence --- just not the kind you put in a test
+tube. The beginning of the universe, its fine-tuning, the existence of a moral law, and the
+reality of consciousness all point beyond nature to a mind behind it.
+\begin{itemize}
+\item Everything that begins to exist has a cause; the universe began --- so it has a cause
+  beyond itself.
+\item The constants that make life possible are fine-tuned to a razor's edge; design is the
+  most natural explanation.
+\item You assume real right and wrong; a moral law points to a Lawgiver.
+\end{itemize}
+\smallskip
+\verse{Rom. 1:20}{For since the creation of the world God's invisible qualities --- His eternal
+power and divine nature --- have been clearly seen, being understood from His workmanship, so
+that men are without excuse.}
+\verse{Ps. 19:1}{The heavens declare the glory of God; the skies proclaim the work of His
+hands.}
+
+\medskip
+\q{``Science has explained everything --- we don't need God.''}
+Science explains \emph{how} the world works; it cannot tell you \emph{why}
+there is a world at all, or what it is for. God is not a rival explanation to science --- he
+is the reason there is an orderly universe to study.
+\begin{itemize}
+\item ``How'' and ``why'' are different questions; explaining an engine doesn't tell you why
+  the car was built.
+\item Science assumes an orderly, intelligible universe --- just what you'd expect if a
+  rational God made it.
+\item Science is silent on meaning, morality, and purpose --- the questions we most need
+  answered.
+\end{itemize}
+\smallskip
+\verse{Col. 1:17}{He is before all things, and in Him all things hold together.}
+\verse{Heb. 11:3}{By faith we understand that the universe was formed at God's command, so that
+what is seen was not made out of what was visible.}
+\end{en}
+
+// ════════════════════════════════════════════════════════════════════════════
+\begin{he}{מדוע יש סבל}
+\q{״אם אלוהים טוב וכל-יכול, מדוע יש כל כך הרבה סבל?״}
+
+המקרא לעולם אינו מזלזל בסבל — הוא מתייחס אליו ברצינות רבה יותר מכל השקפת עולם אחרת. תשובתו של
+אלוהים לרוע אינה תחילה הסבר אלא אישיות: הוא נכנס אל סבלנו בצלב, והבטיח שיום אחד יבטל אותו כליל.
+
+\labh{עיקרים:}
+
+\bull{סבל רב נובע מניצול לרעה של החופש — עולם שיש בו אהבה אמיתית הוא עולם שבו אפשר לדחות את האהבה.}
+\bull{כדי לכנות דבר ״רע״ אתה זקוק לאמת מידה של טוב; בעיית הרוע מניחה את אותו אלוהים שעליו היא מערערת.}
+\bull{בצלב אלוהים אינו נשאר רחוק מן הכאב — הוא נושא בעצמו את עומקו.}
+
+\smallskip
+\verse{רומים 8:18}{כִּי שָׁקַלְתִּי סֵבֶל הַזְמָן הַזֶּה וְאֵינֶנּוּ שׁוֶֹה לְהִשָּׁקֵל עִם־הַכָּבוֹד הַבָּא אֲשֶׁר יֵרָאֶה עָלֵינוּ׃}
+\verse{התגלות 21:4}{וּמָחָה כָל־דִּמְעָה מֵעֵינֵיהֶם הַמָּוֶת לֹא־יִהְיֶה עוֹד וְאֵין אֵבֶל וּצְעָקָה אוֹ דְאָבָה כִּי הָרִאשֹׁנוֹת חָלְפוּ וְאֵינָם׃}
+\verse{יוחנן 11:35}{וַיֵּבְךְ יֵשׁוּעַ׃}
+\end{he}
+
+\begin{en}{Why suffering}
+\q{``If God is good and all-powerful, why is there so much suffering?''}
+
+The Bible never treats suffering as small --- it takes it more seriously
+than any other worldview. God's answer to evil is not first an explanation but a Person: he
+entered our suffering at the cross, and he promises one day to end it entirely.
+
+\lab{Key points}
+\begin{itemize}
+\item Much suffering flows from the misuse of freedom --- a world with real love is a world
+  where love can be refused.
+\item To call anything ``evil'' you need a standard of good; the problem of evil assumes the
+  very God it questions.
+\item At the cross God does not stay distant from pain --- he bears the worst of it himself.
+\end{itemize}
+
+\smallskip
+\verse{Rom. 8:18}{I consider that our present sufferings are not comparable to the glory that
+will be revealed in us.}
+\verse{Rev. 21:4}{He will wipe away every tear from their eyes. There will be no more death or
+mourning or crying or pain, for the former things have passed away.}
+\verse{John 11:35}{Jesus wept.}
+\end{en}
+
+// ════════════════════════════════════════════════════════════════════════════
+\settopic{כתבי הקודש}{The Bible}
+
+\begin{he}{סתירות ומסירת הנוסח}
+\q{״המקרא מלא סתירות.״}
+רוב הסתירות לכאורה הן הבדלי נקודת מבט או פרטים, לא סתירות לוגיות. סתירה אמיתית חייבת לאשר ולהכחיש
+את אותו דבר, באותו מובן, באותו זמן — ודוגמאות ברורות קשה להפליא להציג.
+
+\bull{בקש דוגמה מסוימת; טענות מעורפלות מתפוגגות לאחר בדיקה.}
+\bull{הבדלי פרטים (מספר המלאכים ליד הקבר, נוסח השלט) הם סימן לעדות עצמאית של עדי ראייה, לא לתיאום.}
+\bull{רוב הסתירות לכאורה מתיישבות ברגע ששוקלים הקשר, סוגה וכוונה.}
+
+\smallskip
+\verse{טימותיוס ב׳ 3:16}{כָּל־כִּתְבֵי הַקֹּדֶשׁ עַל־פִּי רוּחַ אֱלֹהִים הֵמָּה וּנְכֹנִים לְהוֹרֹת וּלְהוֹכִיחַ לְהָשִׁיב נֶפֶשׁ וּלְיַשֵּׁר בְּמַעְגְּלֵי צֶדֶק׃}
+\verse{יוחנן 10:35}{וְעַתָּה אִם־אֲנָשִׁים נִקְרְאוּ אֱלֹהִים אֲשֶׁר תּוֹרַת הָאֱלֹהִים אִתָּם וּדְבַר הַכָּתוּב אֵין לְהָשִׁיב׃}
+
+\medskip
+\q{״המקרא הועתק כל כך הרבה פעמים שאי אפשר לדעת מה היה הנוסח המקורי.״}
+הברית החדשה היא המסמך המתועד ביותר של העולם העתיק. בידינו כחמשת אלפים ושמונה מאות כתבי יד יווניים;
+השינויים ביניהם זניחים ברובם, ואף עיקר אמונה נוצרי אחד אינו תלוי בגרסה שנויה במחלוקת.
+
+\bull{השווה את מספר כתבי היד ליצירות עתיקות אחרות, ששרדו בכמה עותקים מאוחרים בלבד.}
+\bull{כמה קטעים מתוארכים למאה או מאתיים שנה מן המקור — קרוב הרבה יותר מטקסטים אחרים.}
+\bull{הרוב המכריע של השינויים הם איות או סדר מילים; ביקורת הנוסח משחזרת את הנוסח בביטחון רב.}
+
+\smallskip
+\verse{ישעיהו 40:8}{יָבֵשׁ חָצִיר נָבֵל צִיץ וּדְבַר־אֱלֹהֵינוּ יָקוּם לְעוֹלָם׃}
+\verse{מתי 24:35}{הַשָּׁמַיִם וְהָאָרֶץ יַעֲבֹרוּ וּדְבָרַי לֹא יַעֲבֹרוּן׃}
+\end{he}
+
+\begin{en}{Contradictions and transmission}
+\q{``The Bible is full of contradictions.''}
+Most alleged contradictions are differences of perspective or detail, not
+logical contradictions. A real contradiction must affirm and deny the same thing, in the same
+sense, at the same time --- and clear examples are remarkably hard to produce.
+\begin{itemize}
+\item Ask for a \emph{specific} example; vague claims dissolve once examined.
+\item Differing details (the number of angels at the tomb, the wording of a sign) are the mark
+  of \emph{independent} eyewitness testimony, not collusion.
+\item Most apparent conflicts harmonize once context, genre, and intent are weighed.
+\end{itemize}
+\smallskip
+\verse{2~Tim.~3:16}{All Scripture is God-breathed and is useful for instruction, for conviction,
+for correction, and for training in righteousness.}
+\verse{John 10:35}{If he called them gods to whom the word of God came --- and the Scripture
+cannot be broken.}
+
+\medskip
+\q{``The Bible was copied so many times we can't know the original.''}
+The New Testament is the best-attested document of the ancient world. We
+have roughly 5,800 Greek manuscripts, the variants among them are overwhelmingly trivial, and
+not one Christian doctrine hangs on a disputed reading.
+\begin{itemize}
+\item Compare the manuscript count to other ancient works, which survive in only a handful of
+  late copies.
+\item Some fragments date within a century or two of the originals --- far closer than for
+  comparable texts.
+\item The vast majority of variants are spelling or word order; textual criticism reconstructs
+  the wording with high confidence.
+\end{itemize}
+\smallskip
+\verse{Isa. 40:8}{The grass withers and the flowers fall, but the word of our God stands
+forever.}
+\verse{Matt. 24:35}{Heaven and earth will pass away, but My words will never pass away.}
+\end{en}
+
+// ════════════════════════════════════════════════════════════════════════════
+\begin{he}{האבולוציה}
+\q{״האבולוציה מפריכה את המקרא.״}
+
+תיאוריה על מנגנון החיים אינה אומרת דבר על השאלה אם יש אלוהים מאחוריו. גם אם נקבל את המדע, השאלות
+העמוקות נותרות: מדוע יש משהו בכלל, מאין באו החיים הראשונים, ומדוע היקום מכוונן כה עדין עבורם? ספר
+בראשית מספר לנו שאלוהים ברא את העולם ומדוע; הוא אינו ספר לימוד במדע.
+
+\labh{עיקרים:}
+
+\bull{תהליך אינו תכלית: גם מנגנון טבעי יכול להיות האמצעי שבו משתמש הבורא.}
+\bull{האבולוציה אינה עוסקת במקור היקום, במקור החיים עצמם, או במקור החוקים שעליהם היא נשענת.}
+\bull{מדענים רבים המקבלים את האבולוציה הם נוצרים; אמונה ומדע אינם אויבים.}
+
+\smallskip
+\labh{כתובים:} בראשית 1:1; תהלים 139:14.
+
+\smallskip
+\labh{ראה גם:} הכרטיס על קיומו של אלוהים.
+\end{he}
+
+\begin{en}{Evolution}
+\q{``Evolution disproves the Bible.''}
+
+A theory about the mechanism of life says nothing about whether there is a
+God behind it. Even granting the science, the deep questions remain: why is there anything at
+all, where did the first life come from, and why is the universe so finely tuned for it?
+Genesis tells us \emph{that} God made the world and \emph{why}; it is not a science textbook.
+
+\lab{Key points}
+\begin{itemize}
+\item Process is not purpose: even a natural mechanism could be the means a Creator uses.
+\item Evolution doesn't address the origin of the universe, of life itself, or of the laws it
+  depends on.
+\item Many scientists who accept evolution are Christians; faith and science are not enemies.
+\end{itemize}
+
+\lab{Scripture} Gen.~1:1; Ps.~139:14.
+
+\lab{See also} The card on the existence of God.
+\end{en}
+
+// ════════════════════════════════════════════════════════════════════════════
+\settopic{ישוע}{Jesus}
+
+\begin{he}{מורה טוב ותחיית המתים}
+\q{״ישוע היה רק מורה מוסר טוב.״}
+זה הדבר היחיד שהוא אינו יכול להיות. מורה טוב שטען שהוא סולח חטאים, שהוא אחד עם האב, ושהוא ישפוט את
+העולם — או אומר אמת, או הוזה, או משקר. ״מורה טוב״ אינו בתפריט — הוא לא הותיר לנו דרך אמצע.
+
+\bull{הוא קיבל סגידה, סלח חטאים, וטען שהתקיים לפני אברהם — דברים שרק אלוהים רשאי לעשות.}
+\bull{אדם טוב בלבד שהיה אומר דברים כאלה היה רברבן שחצן, לא חכם.}
+\bull{הבחירה אמיתית: אדון, שקרן, או מטורף — אך לא רק מורה גדול.}
+
+\smallskip
+\verse{יוחנן 8:58}{וַיֹּאמֶר אֲלֵיהֶם יֵשׁוּעַ אָמֵן אָמֵן אֲנִי אֹמֵר לָכֶם אֲנִי הָיִיתִי עוֹד עַד לֹא־הָיָה אַבְרָהָם׃}
+\verse{יוחנן 10:30}{וַאֲנִי וְהָאָב אֶחָד׃}
+\verse{מרקוס 2:5-7}{כִּרְאוֹת יֵשׁוּעַ אֶת־אֱמוּנָתָם וַיֹּאמֶר אֶל־נְכֵה הָעֲצָמוֹת בְּנִי נִסְלְחוּ־לְךָ חָטֹּאתֶיךָ׃ וַאֲנָשִׁים מִן־הַסּוֹפְרִים יָשְׁבוּ שָׁם מְדַבְּרִים אֶל־לִבָּם לֵאמֹר׃ לָמָּה מְדַבֵּר גִּדּוּפִים כָּאֵלֶּה מִי יוּכַל לִסְלֹחַ חֲטָאִים בִּלְתִּי הָאֱלֹהִים לְבַדּוֹ׃}
+
+\medskip
+\q{״התחייה היא אגדה שצמחה עם הזמן.״}
+הטענה מוקדמת מדי ויקרה מדי מכדי להיות אגדה. בתוך שנים ספורות מן הצלב כבר בישרו עדי ראייה על ישוע
+שקם, ורובם מסרו את נפשם על כך. אגדות צומחות לאורך דורות; זו הוכרזה בעוד עדי ראייה עוינים בחיים
+שיכלו להכחישה.
+
+\bull{האמונה הקדומה ביותר (קורינתים א׳ 15:3-7) מונה עדים בשמם ומתוארכת לשנים ספורות מן האירועים.}
+\bull{הקבר היה ריק — אף מתנגדיו של ישוע הודו שהגופה נעלמה וניסו להסביר זאת.}
+\bull{אנשים מתים על מה שהם מאמינים שהוא אמת; התלמידים מתו על מה שהיו במצב לדעת אם אמת או שקר.}
+
+\smallskip
+\verse{לוקס 24:39}{רְאוּ אֶת־יָדַי וְאֶת־רַגְלַי כִּי אֲנִי אֲנִי הוּא מִשְׁשׁוּנִי וּרְאוּ כִּי רוּחַ אֵין לוֹ בָּשָׂר וַעֲצָמוֹת כַּאֲשֶׁר אַתֶּם רֹאִים בִּי׃}
+\verse{מעשי השליחים 2:32}{הוּא יֵשׁוּעַ זֶה אֲשֶׁר אֱלֹהִים הֲקִימוֹ מִן־הַמֵּתִים וַאֲנַחְנוּ כֻּלָּנוּ עֵדִים לוֹ׃}
+\end{he}
+
+\begin{en}{Good teacher and resurrection}
+\q{``Jesus was just a good moral teacher.''}
+That is the one thing he cannot be. A good teacher who claimed to forgive
+sins, to be one with the Father, and to judge the world is either telling the truth, deluded,
+or lying. ``Good teacher'' is not on the menu --- he left us no middle ground.
+\begin{itemize}
+\item He accepted worship, forgave sins, and claimed to exist before Abraham --- things only
+  God can rightly do.
+\item A merely good man who said such things would be a megalomaniac, not a sage.
+\item The choice is real: Lord, liar, or lunatic --- but not merely a great teacher.
+\end{itemize}
+\smallskip
+\verse{John 8:58}{Jesus said to them, ``Truly, truly, I tell you, before Abraham was born, I
+am!''}
+\verse{John 10:30}{I and the Father are one.}
+\verse{Mark 2:5--7}{When Jesus saw their faith, He said to the paralytic, ``Son, your sins are
+forgiven.'' But some of the scribes were sitting there, thinking in their hearts, ``Why does
+this man speak like this? He is blaspheming! Who can forgive sins but God alone?''}
+
+\medskip
+\q{``The resurrection is a legend that grew over time.''}
+The claim is too early and too costly to be legend. Within a few years of
+the cross, eyewitnesses were proclaiming a risen Jesus, and most went to their deaths for it.
+Legends take generations to grow; this was preached while hostile eyewitnesses were still alive
+to deny it.
+\begin{itemize}
+\item The earliest creed (1~Cor.~15:3--7) names eyewitnesses and dates to within a few years of
+  the events.
+\item The tomb was empty --- even Jesus' opponents admitted the body was gone and tried to
+  explain it away.
+\item People die for what they believe is true; the disciples died for what they were in a
+  position to know was true or false.
+\end{itemize}
+\smallskip
+\verse{Luke 24:39}{Look at My hands and My feet. It is I Myself. Touch Me and see; for a spirit
+does not have flesh and bones, as you see I have.}
+\verse{Acts 2:32}{God has raised this Jesus to life, to which we are all witnesses.}
+\end{en}
+
+// ════════════════════════════════════════════════════════════════════════════
+\begin{he}{כל הדרכים אל האלוהים}
+\q{״כל הדתות מובילות אל אלוהים — כולן בעצם אותו דבר.״}
+
+הן אינן יכולות כולן להיות אמת, משום שבעיקר הן אומרות דברים מנוגדים — מי הוא אלוהים, מה השתבש בנו,
+וכיצד זה מתוקן. כבוד לאנשים אינו אומר להעמיד פנים שאמונותיהם אינן סותרות. הנצרות ייחודית: לא אנו
+עולים אל אלוהים, אלא אלוהים יורד אלינו בחסד.
+
+\labh{עיקרים:}
+
+\bull{הדתות חלוקות על אלוהים (אחד, רבים, אין, לא-אישי), על בעיית האדם, ועל הפתרון — סתירות אמיתיות, לא גוונים של אמת אחת.}
+\bull{כל שיטה אחרת אומרת ״עשה״; הבשורה אומרת ״נעשה״ — הישועה מתנה, לא שכר.}
+\bull{סובלנות פירושה לכבד אנשים, לא להאמין שכל טענה נכונה במידה שווה.}
+
+\smallskip
+\verse{יוחנן 14:6}{וַיֹּאמֶר אֵלָיו יֵשׁוּעַ אָנֹכִי הַדֶּרֶךְ וְהָאֱמֶת וְהַחַיִּים וְאִישׁ לֹא־יָבֹא אֶל־הָאָב בִּלְתִּי עַל־יָדִי׃}
+\verse{מעשי השליחים 4:12}{וְאֵין יֶשַׁע בִּלְתּוֹ כִּי לֹא־נִתַּן שֵׁם אַחֵר לִבְנֵי אָדָם תַּחַת הַשָּׁמַיִם אֲשֶׁר־בּוֹ נִוָּשֵׁעָה׃}
+\end{he}
+
+\begin{en}{All roads to God}
+\q{``All religions lead to God --- they're basically the same.''}
+
+They cannot all be true, because they say opposite things about what
+matters most --- who God is, what is wrong with us, and how it is fixed. Respecting people
+doesn't mean pretending their beliefs don't contradict. Christianity is unique: not us
+reaching up to God, but God reaching down to us in grace.
+
+\lab{Key points}
+\begin{itemize}
+\item The religions disagree on God (one, many, none, impersonal), on the human problem, and
+  on the cure --- real contradictions, not flavors of one truth.
+\item Every other system says ``do''; the gospel says ``done'' --- salvation is a gift, not a
+  wage.
+\item Tolerance means treating people with respect, not believing every claim is equally true.
+\end{itemize}
+
+\smallskip
+\verse{John 14:6}{Jesus answered, ``I am the way and the truth and the life. No one comes to the
+Father except through Me.''}
+\verse{Acts 4:12}{Salvation exists in no one else, for there is no other name under heaven given
+to men by which we must be saved.}
+\end{en}
+
+// ════════════════════════════════════════════════════════════════════════════
+\settopic{לב האדם}{The human heart}
+
+\begin{he}{טוב, ומספיק טוב}
+\q{״אפשר להיות אדם טוב גם בלי אלוהים.״}
+נכון — אנשים רבים שאינם מאמינים חיים חיים ישרים, משום שכל אדם נברא בצלם אלוהים ומכיר את חוקו
+במצפונו. השאלה אינה אם אפשר להיות טוב בלי להאמין באלוהים, אלא אם טוב ורע קיימים באמת בלעדיו. בלי
+מחוקק, ״טוב״ הוא רק דעה — ללא כל תוקף מחייב.
+
+\bull{השאלה היא יסוד, לא התנהגות: בלי אלוהים, מי יאמר ש״הטוב״ שלך עדיף על זה של עריץ?}
+\bull{כל אדם יודע שיש דברים שהם באמת רעים (אכזריות, בגידה) — וזה מצביע על חוק מוסרי שמעלינו.}
+
+\smallskip
+\verse{רומים 2:14-15}{כִּי הַגּוֹיִם אֲשֶׁר אֵין־לָהֶם אוֹר תּוֹרָה וְעֹשִׂים כְּדִבְרֵי הַתּוֹרָה עַל־פִּי אוֹר דַּעְתָּם הֵם אֲשֶׁר תּוֹרָה אֵין לָהֶם יִהְיוּ תוֹרָה לְנַפְשָׁם׃ בְּהַרְאֹתָם כִּי מִשְׁפַּט הַתּוֹרָה כָּתוּב עַל־לוּחַ לִבָּם בַּאֲשֶׁר דַּעְתָּם תַּגִּיד לָהֶם וְעֶשְׁתֹּנוֹתֵיהֶם חֲלִיפוֹת שׂטְנוֹת אוֹ מְזַכּוֹת אִשָּׁה אֶת־אֲחוֹתָהּ׃}
+\verse{ישעיהו 64:6}{וַנְּהִי כַטָּמֵא כֻּלָּנוּ וּכְבֶגֶד עִדִּים כָּל־צִדְקֹתֵינוּ׃}
+
+\medskip
+\q{״אני אדם טוב — אינני זקוק לישועה.״}
+ביחס לאחרים, אולי — אך אמת המידה אינה שכנך, אלא קדושתו המושלמת של אלוהים. במידה זו איש מאיתנו אינו
+עומד; כולנו שיקרנו, שנאנו, והעמדנו את עצמנו ראשונים. הבשורה הטובה היא שהישועה מעולם לא הייתה תלויה
+בלהיות מספיק טוב — היא מתנה לאלה היודעים שאינם.
+
+\bull{נסה את המבחן: האם מעולם לא שיקרת, מעולם לא שנאת, מעולם לא חמדת את אשר אינו שלך? חוק אלוהים מגיע אל הלב.}
+\bull{השמים אינם נרכשים בהיות אדם טוב; אילו כך, המשיח מת לחינם.}
+\bull{״אנשים טובים״ אינם חשים שהם זקוקים למושיע — וזה הדבר היחיד שמרחיק אותם ממנו.}
+
+\smallskip
+\verse{רומים 3:10-12}{כַּכָּתוּב אֵין צַדִּיק אֵין גַּם־אֶחָד׃ אֵין מַשְׂכִּיל אֵין דֹּרֵשׁ אֶת־אֱלֹהִים׃ הַכֹּל סָר יַחְדָּו נֶאֱלָחוּ אֵין עֹשֶׂה־טוֹב אֵין גַּם אֶחָד׃}
+\verse{גלטים 2:21}{לֹא אֶעֱשֶׂה אֶת־חֶסֶד הָאֱלֹהִים לְאָיִן כִּי אִם־תִמָּצֵא צְדָקָה עַל־יְדֵי הַתּוֹרָה אָז הַמָּשִׁיחַ מֵת חִנָּם׃}
+\verse{אפסים 2:8-9}{כִּי־בַחֶסֶד נוֹשַׁעְתֶּם עֵקֶב אֱמוּנַתְכֶם וְלֹא מִיֶּדְכֶם הָיְתָה זֹּאת לָכֶם כִּי־מַתַּת אֱלֹהִים הִיא׃ לֹא בִשְׂכַר מַעֲשֵׂיכֶם פֶּן־יִתְהַלֵּל אִישׁ׃}
+\end{he}
+
+\begin{en}{Good, and good enough}
+\q{``You don't need God to be a good person.''}
+True --- many non-believers live good lives, because everyone is made in God's image and knows
+his law in their conscience. The question isn't whether you can be good without believing in
+God, but whether good and evil are real at all without him. Without a Lawgiver, ``good'' is just
+opinion --- nothing binding.
+\begin{itemize}
+\item The issue is grounding, not behaviour: without God, who says your ``good'' is better than
+  a tyrant's?
+\item Everyone knows some things are really wrong (cruelty, betrayal) --- that points to a moral
+  law above us.
+\end{itemize}
+\smallskip
+\verse{Rom. 2:14--15}{When Gentiles, who do not have the law, do by nature what the law requires,
+they are a law to themselves; they show that the work of the law is written on their hearts,
+their consciences also bearing witness.}
+\verse{Isa. 64:6}{All of us have become like one who is unclean, and all our righteous acts are
+like filthy rags.}
+
+\medskip
+\q{``I'm a good person --- I don't need to be saved.''}
+Compared to other people, perhaps --- but the standard isn't your neighbour, it's God's perfect
+holiness. By that measure none of us passes; we've all lied, hated, and put ourselves first. The
+good news is that salvation was never about being good enough --- it's a gift for people who know
+they aren't.
+\begin{itemize}
+\item Try the test: have you never lied, never hated, never wanted what isn't yours? God's law
+  reaches the heart.
+\item Heaven isn't earned by being good; if it were, Christ died for nothing.
+\item ``Good people'' don't think they need a Saviour --- which is the one thing that keeps them
+  from him.
+\end{itemize}
+\smallskip
+\verse{Rom. 3:10--12}{There is no one righteous, not even one; there is no one who understands,
+no one who seeks God. All have turned away; there is no one who does good, not even one.}
+\verse{Gal. 2:21}{I do not set aside the grace of God. For if righteousness comes through the law,
+Christ died for nothing.}
+\verse{Eph. 2:8--9}{For it is by grace you have been saved, through faith --- and this not from
+yourselves; it is the gift of God --- not by works, so that no one can boast.}
+\end{en}
+
+// ════════════════════════════════════════════════════════════════════════════
+\begin{he}{צבועים}
+\q{״הכנסייה מלאה בצבועים.״}
+
+לעיתים זה נכון — ישוע אמר שכך יהיה, והוא גינה את הצביעות בחריפות רבה יותר מכל אחד. הקהילה אינה
+מוזיאון של מושלמים אלא בית חולים לשבורים; וזה שחלק מן החולים מתנהגים רע אינו טענה נגד התרופה. אל
+תיתן לצבוע אחד לעמוד בינך לבין המשיח.
+
+\labh{עיקרים:}
+
+\bull{צבוע הוא מי שאינו חי לפי אמת מידה טובה — וזה עצמו מודה שאמת המידה טובה.}
+\bull{שפוט את הנצרות לפי המשיח, לא לפי הגרועים שבחסידיו.}
+\bull{ההאשמה חלה על כולנו; הבשורה היא לכושלים — בשורה טובה לכל אדם.}
+
+\smallskip
+\verse{מתי 23:27-28}{אוֹי לָכֶם סוֹפְרִים וּפְרוּשִׁים חֲנֵפִים הַדֹּמִים לִקְבָרִים מְלֻבָּנִים בַּשִּׂיד הַנִּרְאִים יָפִים מִחוּץ וּמִבִּפְנִים מְלֵאִים הֵם עַצְמוֹת אָדָם וְכָל־טֻמְאָה׃ כֵּן נִרְאִים גַּם־אַתֶּם מִחוּץ כְּצַדִּיקִים לְעֵינֵי אֲנָשִׁים וּמִבִּפְנִים הִנְּכֶם מְלֵאִים חֹנֶף וָאָוֶן׃}
+\verse{לוקס 5:31-32}{וַיַּעַן יֵשׁוּעַ וַיֹּאמֶר אֲלֵיהֶם הַחֲזָקִים אֵין לָהֶם דָּבָר עִם־הָרֹפֵא כִּי אִם־הַחוֹלִים׃ לֹא בָאתִי לִקְרֹא צַדִּיקִים כִּי אִם־חַטָּאִים לִתְשׁוּבָה׃}
+\verse{רומים 3:23}{כִּי־כֻלָּם חָטָאוּ וַיִּסֹּגוּ מֵאַחֲרֵי כְבוֹד אֱלֹהִים׃}
+
+\smallskip
+\labh{ראה גם:} הכרטיס ״טוב, ומספיק טוב״.
+\end{he}
+
+\begin{en}{Hypocrites}
+\q{``The church is full of hypocrites.''}
+
+Sometimes true --- Jesus said it would be, and he condemned hypocrisy more
+sharply than anyone. The church is not a museum of the perfect but a hospital for the broken;
+that some patients behave badly is no argument against the medicine. Don't let a hypocrite
+stand between you and Christ.
+
+\lab{Key points}
+\begin{itemize}
+\item A hypocrite fails to live up to a good standard --- which admits the standard is good.
+\item Judge Christianity by Christ, not by the worst of his followers.
+\item The charge fits us all; the gospel is for failures --- good news for everyone.
+\end{itemize}
+
+\smallskip
+\verse{Matt. 23:27--28}{Woe to you, scribes and Pharisees, you hypocrites! You are like
+whitewashed tombs, which look beautiful on the outside, but on the inside are full of dead men's
+bones. On the outside you appear to be righteous, but on the inside you are full of hypocrisy and
+wickedness.}
+\verse{Luke 5:31--32}{It is not the healthy who need a doctor, but the sick. I have not come to
+call the righteous, but sinners to repentance.}
+\verse{Rom. 3:23}{for all have sinned and fall short of the glory of God.}
+
+\lab{See also} The ``Good, and good enough'' card.
+\end{en}
+
+// ════════════════════════════════════════════════════════════════════════════
 // Public-domain dedication — the closing page. No folio: this is back matter, not a card.
 // ════════════════════════════════════════════════════════════════════════════
 \def footline {\hss}
 \vfil
 \centerline{\font noto 30 regular Ἀπολογία}
 \vskip 30pt
-\rtl
-\centerline{\font hebrew 14 bold נחלת הכלל}
-\ltr
+{\centering\rtl\font hebrew 14 bold נחלת הכלל
+
+}
 \vskip 5pt
 \centerline{\font lmroman 14 bold In the Public Domain}
 \vskip 30pt

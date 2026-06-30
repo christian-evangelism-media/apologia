@@ -1,12 +1,13 @@
 # apologia
 
 A bilingual evangelical-Protestant apologetics **field reference**, typeset with the
-[texish](https://github.com/edadma/texish) document engine. It comes in four editions:
+[texish](https://github.com/edadma/texish) document engine. It comes in five editions:
 
 - **French / English** — `apologia-fr-en.texish`
 - **Spanish / English** — `apologia-es-en.texish`
 - **Simplified Chinese / English** — `apologia-zh-hans-en.texish`
 - **Traditional Chinese / English** — `apologia-zh-hant-en.texish`
+- **Hebrew / English** — `apologia-he-en.texish` (right-to-left)
 
 The document is a deck of one-page "cards," each answering a common question or objection
 with a short answer, a few key points, and the scripture printed in full so it can be read
@@ -17,8 +18,10 @@ the right (recto), so the two languages always face each other. A trilingual cov
 carries the full date as a version stamp.
 
 Scripture is quoted from public-domain translations — the **Berean Standard Bible** in English,
-**Louis Segond 1910** in French, the **Reina-Valera 1909** (modernized) in Spanish, and the
-**Chinese Union Version** (和合本, 1919) in Chinese — in both Simplified and Traditional script.
+**Louis Segond 1910** in French, the **Reina-Valera 1909** (modernized) in Spanish, the
+**Chinese Union Version** (和合本, 1919) in Chinese (Simplified and Traditional script), and, in
+Hebrew, the **Salkinson-Ginsburg Hebrew New Testament** (1885) with the **Westminster Leningrad
+Codex** for Old Testament quotations.
 
 ## Contents
 
@@ -43,11 +46,13 @@ cd /path/to/texish
 ./cli/target/scala-3.8.4/texish-cli /path/to/apologia/apologia-es-en.texish      # Spanish / English
 ./cli/target/scala-3.8.4/texish-cli /path/to/apologia/apologia-zh-hans-en.texish # Simplified Chinese / English
 ./cli/target/scala-3.8.4/texish-cli /path/to/apologia/apologia-zh-hant-en.texish # Traditional Chinese / English
+./cli/target/scala-3.8.4/texish-cli /path/to/apologia/apologia-he-en.texish      # Hebrew / English
 ```
 
 This writes the PDF beside the source (`apologia-fr-en.pdf`, `apologia-es-en.pdf`,
-`apologia-zh-hans-en.pdf`, `apologia-zh-hant-en.pdf`). Rendered PDFs are not tracked in this
-repository. The Chinese editions need texish ≥ 0.11.1 (bundled Noto Serif CJK with a bold weight).
+`apologia-zh-hans-en.pdf`, `apologia-zh-hant-en.pdf`, `apologia-he-en.pdf`). Rendered PDFs are not
+tracked in this repository. The Chinese editions need texish ≥ 0.11.1 (bundled Noto Serif CJK with a
+bold weight); the Hebrew edition needs texish ≥ 0.12.0 (right-to-left Hebrew with niqqud).
 
 A ready-to-print PDF of the latest version is attached to the most recent
 [GitHub release](https://github.com/edadma/apologia/releases). Releases are versioned by the

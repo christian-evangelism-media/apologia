@@ -102,13 +102,13 @@
 \vskip 90pt
 \centerline{\font noto 48 regular Ἀπολογία}
 \vskip 36pt
-{\centering\rtl\font hebrew 15 regular מדריך שדה למבשרי הבשורה
+{\centering\rtl\noindent\font hebrew 15 regular מדריך שדה למבשרי הבשורה
 
 }
 \vskip 5pt
 \centerline{\font lmroman 13 regular A Field Reference for Evangelists}
 \vfil
-{\centering\rtl\font hebrew 11 regular 30 ביוני 2026
+{\centering\rtl\noindent\font hebrew 11 regular 30 ביוני 2026
 
 }
 \vskip 24pt
@@ -116,7 +116,7 @@
 
 // ── Hebrew table of contents (verso) ──────────────────────────────────────────
 \rtl
-{\font hebrew 16 bold תוכן העניינים}
+\noindent{\font hebrew 16 bold תוכן העניינים}
 \ltr
 \vskip 12pt
 \rtl
@@ -775,7 +775,7 @@ call the righteous, but sinners to repentance.}
 \vfil
 \centerline{\font noto 30 regular Ἀπολογία}
 \vskip 30pt
-{\centering\rtl\font hebrew 14 bold נחלת הכלל
+{\centering\rtl\noindent\font hebrew 14 bold נחלת הכלל
 
 }
 \vskip 5pt

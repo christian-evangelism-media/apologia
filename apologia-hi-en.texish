@@ -57,22 +57,14 @@
 } {\vfil\eject}
 
 // English run-in helpers
-\def q text {\noindent{\font lmroman 11 bold \text}
-
-}
+\def q text {\noindent{\font lmroman 11 bold \text}\par}
 \def lab t {\textbf{\t.}}
-\def verse r body {\noindent\textbf{\r}\hskip 6 \body
-
-\smallskip}
+\def verse r body {\noindent\textbf{\r}\hskip 6 \body\par\smallskip}
 
 // Hindi run-in helpers (devanagari)
-\def qh text {\noindent{\font devanagari 11 bold \text}
-
-}
+\def qh text {\noindent{\font devanagari 11 bold \text}\par}
 \def labh t {\textbf{\t}\hskip 5 }
-\def verseh r body {\noindent\textbf{\r}\hskip 6 \body
-
-\smallskip}
+\def verseh r body {\noindent\textbf{\r}\hskip 6 \body\par\smallskip}
 
 \def tocleader {\leaders\hbox to:0.5em {\hss.\hss}{0pt plus 1fil}}
 \def tochiformat lvl num ttl pg {\hbox to:\hsize {\num\hskip 8 {\font devanagari 10 regular \ttl}\tocleader\hskip 6 \pg}}

@@ -74,9 +74,7 @@
 } {\vfil\eject}
 
 // \q{…} — the objection itself: bold, flush to the leading edge, in the current body face.
-\def q text {\noindent{\font \bodyface \qfontsize bold \text}
-
-}
+\def q text {\noindent{\font \bodyface \qfontsize bold \text}\par}
 
 // Run-in labels: \lab (Latin, period lead-in) on the recto, \laba (Arabic, bold) on the verso.
 \def lab t {\textbf{\t.}}
@@ -84,9 +82,7 @@
 
 
 // \verse{ref}{text} — a printed scripture verse: a bold reference, then the verse set flush.
-\def verse r body {\noindent\textbf{\r}\hskip 6 \body
-
-\vskip 2pt}
+\def verse r body {\noindent\textbf{\r}\hskip 6 \body\par\vskip 2pt}
 
 \def tocleader {\leaders\hbox to:0.5em {\hss.\hss}{0pt plus 1fil}}
 // Arabic TOC entry: a right-to-left paragraph so the title reorders; number on the right, page on

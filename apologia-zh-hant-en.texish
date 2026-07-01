@@ -63,9 +63,7 @@
 } {\vfil\eject}
 
 // \q{…} — the objection itself: bold, flush-left, in the current body face.
-\def q text {\noindent{\font \bodyface \qfontsize bold \text}
-
-}
+\def q text {\noindent{\font \bodyface \qfontsize bold \text}\par}
 
 // Run-in labels: \lab (Latin, period lead-in) on the recto, \labz (Chinese, full-width colon) on
 // the verso. Both bold in the current body face.
@@ -73,9 +71,7 @@
 \def labz t {\textbf{\t：}}
 
 // \verse{ref}{text} — a printed scripture verse: a bold reference, then the verse set flush.
-\def verse r body {\noindent\textbf{\r}\hskip 6 \body
-
-\smallskip}
+\def verse r body {\noindent\textbf{\r}\hskip 6 \body\par\smallskip}
 
 \def tocleader {\leaders\hbox to:0.5em {\hss.\hss}{0pt plus 1fil}}
 \def toczhformat lvl num ttl pg {\hbox to:\hsize {\num\hskip 8 \ttl\tocleader\hskip 6 \pg}}

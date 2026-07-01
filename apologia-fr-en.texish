@@ -58,9 +58,7 @@
 
 // \q{…} sets the objection itself: bold, flush-left (no paragraph indent), wrapping to the page width, a
 // paragraph break after.
-\def q text {\noindent{\font lmroman 11 bold \text}
-
-}
+\def q text {\noindent{\font lmroman 11 bold \text}\par}
 
 // \lab{…} is a bold run-in label, e.g. \lab{Key points} or \lab{See also} — used for the
 // named sections of a card. The objection's answer leads directly, with no label.
@@ -68,9 +66,7 @@
 
 // \verse{ref}{text} — a printed scripture verse: a bold reference, then the verse set flush as its own short
 // paragraph. The Roman Road card prints the verses in full so the evangelist can read them straight from the page.
-\def verse r body {\noindent\textbf{\r}\hskip 6 \body
-
-\smallskip}
+\def verse r body {\noindent\textbf{\r}\hskip 6 \body\par\smallskip}
 
 // Table-of-contents lines: number, title, dotted leader, folio. The leader is \leaders (grid-aligned), not
 // \dotfill (centred), so the dots fall on a fixed column grid and line up from row to row, as in a LaTeX
